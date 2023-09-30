@@ -4,3 +4,5 @@
 <h3>Esse projeto desenvolvi praticando com o conteúdo que aprendi no <a href="https://rodolfomori/devclub">DevClub</a></h3> 
 <br>
 <h2>Tecnologias usadas: <b>HTML e CSS</b></h2>
+
+<a href="https://rodrigosousa94.github.io/Easy-Shopping/">Link do site</a>
